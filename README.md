@@ -1,3 +1,1 @@
-Activity 1-2: WorkingTutorAppointmentApp
-.....................................................
-Activity 3-5: HomeCleaningServiceSchedulingandPayment
+Activity 1-2: WorkingTutorAppointmentApp and Activity 3-5: HomeCleaningServiceSchedulingandPayment
